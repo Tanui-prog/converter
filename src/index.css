@@ -143,6 +143,7 @@ body{
     pointer-events: none;
 }
 .custom-navbar {
+    margin-top: 0;
     height: 66px;
     position: fixed;
     width: 100%;
