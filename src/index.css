@@ -22,7 +22,7 @@ body{
     border-radius: 8px;
     max-width: 810px;
     backdrop-filter: blur (30px);
-    background: rgba(134, 80, 8, 0.93);
+    background: rgba(97, 62, 33, 0.93);
     padding: 40px 30px 50px;
     border: 1px solid rgba(255, 255, 255, .3);
     box-shadow: 0 8px 32px rgba(0, 0, 0, .5);
